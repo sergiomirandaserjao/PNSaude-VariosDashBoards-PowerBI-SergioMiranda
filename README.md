@@ -11,7 +11,7 @@ Objetivos Gerais:
 - Dashboard 1: informações gerais sobre as pessoas;
 - Dashboard 2: serviços e atendimento médico;
 - Dashboard 3: Saúde da Mulher;
-- Dashboard 4: Doenças Transmissíveis e Atividade Sexual;
+- Dashboard 4: Doenças Sexualmente Transmissíveis e Atividade Sexual;
 - Dashboard 5: Violência.
 
 # 2. Dashboards Criados
