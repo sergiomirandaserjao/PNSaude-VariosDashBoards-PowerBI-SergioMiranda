@@ -4,7 +4,7 @@
  
 # 1. Ideia e Objetivos Gerais
 
-A ideia geral é gerar vários dashboards usando o Power BI por meio dos dados da [Pesquisa Nacional de Saúde](https://www.pns.icict.fiocruz.br/bases-de-dados/).
+A ideia geral é gerar vários dashboards com a Ferramenta Power BI por meio dos dados da [Pesquisa Nacional de Saúde](https://www.pns.icict.fiocruz.br/bases-de-dados/).
 
 Objetivos Gerais:
 - Criar um menu para os dashboards;
